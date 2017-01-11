@@ -8,7 +8,7 @@
 # Parameters
 # -----------------------------------------------------------------
 # domains to request certs for, separated by a space
-domains=(determine.org.uk www.determine.org.uk myth.barwap.com www.barwap.com barwap.com)
+domains=(determine.org.uk www.determine.org.uk myth.barwap.com www.barwap.com owncloud.barwap.com library.barwap.com shed.barwap.com shed-image.barwap.com fisheye-image.barwap.com flask-ask.barwap.com barwap.com)
 # email address to user when registering certs
 email=bms.LE@barwap.com
 # LE Binary folder (LE binaries)
